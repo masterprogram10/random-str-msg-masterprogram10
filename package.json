@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-masterprogram10",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Juan Pablo Rueda <masterprogam10@gmail.com>",
+  "license": "MIT",
+  "bin" : {
+    "random-str-msg-masterprogam10": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
